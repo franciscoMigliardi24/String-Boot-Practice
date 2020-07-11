@@ -1,2 +1,2 @@
 # String-Boot-Practice-Form
-Form practice with Spring Boot
+SQL practice with Spring Boot
